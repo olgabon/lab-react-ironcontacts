@@ -1,0 +1,16 @@
+.card {
+    height: 20vh;
+    width: 60vw;
+    display: flex;
+    margin: 5%;
+    flex-direction: row;
+}
+.card img{
+    height: 100%;
+}
+.contactList {
+    display: flex;
+}
+.card h1, h2{
+    margin: 0 5%;
+}
